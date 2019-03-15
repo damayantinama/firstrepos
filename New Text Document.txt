@@ -1,7 +1,6 @@
 Damayanti nama
 
-<<<<<<< HEAD
 Hi
-=======
+
 Hello
->>>>>>> 3e95824485474a689c27cc7943a9de27eaff6868
+
